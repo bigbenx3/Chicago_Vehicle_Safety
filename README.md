@@ -34,7 +34,7 @@ For the purposes outlined above, we will use a variety of methods and modules th
 
 
 ### **Living Area**
-!["scatterplot for price and living space sqft"](housing_project_images/price_and_house_living_space_new_5_11_21.jpg)
+!["scatterplot for price and living space sqft"](vehicle_safety_project_images/price_and_house_living_space_new_5_11_21.jpg)
 
 As the...
 
